@@ -1,5 +1,5 @@
 <img src="rojoTests.png" height="600px" width="auto">
-# Project 1: TDD-Rojo
+# TDD-Testing-Rojo
 
 ## Summary
 
